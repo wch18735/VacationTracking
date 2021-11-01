@@ -1,0 +1,10 @@
+Buildfile: C:\Users\wch18\Documents\Mendix\TrackingVacation_Trainee-main\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 41 files to C:\Users\wch18\Documents\Mendix\TrackingVacation_Trainee-main\deployment
+     [copy] Copying 5 files to C:\Users\wch18\Documents\Mendix\TrackingVacation_Trainee-main\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+
